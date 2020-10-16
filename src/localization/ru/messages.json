@@ -1,9 +1,9 @@
 {
-  "<0/> Uptime": "Аптайм Амани",
+  "<0/> Аптайм": "",
   "<0/> applied prepull": "",
-  "<0/> has a big impact on the strength of your heals. Try to stay close to the people you are healing to benefit the most from your Mastery. Use <1/> when healing people further away.": "",
-  "<0/> is an inefficient spell to cast compared to the alternatives. Try to only cast <1/> when it will save someone's life or when you have to move and all other instant cast spells are on cooldown.": "",
-  "<0/> usage": "",
+  "<0/> влияет на эффективность Вашего исцеления. Старайтесь ближе к игрокам, которых Вы лечите для максимальной реализации Вашей Искусности. Используйте <1/> когда лечите людей, находящихся на расстоянии от Вас.": "",
+  "<0/> это не самая эффективная способность, если сравнивать с имеющимися альтернативами. Старайтесь использовать <1/> только если это спасет чью-то жизнь или пока Вы двигаетесь, а остальные мгновенные заклинания на кд.": "",
+  "<0/> usage": "применений",
   "<0/>{0} {1} {2} {3} {4} are your most efficient healing spells available. Try to cast them as much as possible without overhealing.<1>On Mythic</1> you can often still cast these spells more even if you were overhealing by casting it quicker when it comes off cooldown and improving your target selection. {5}": "",
   "<{0}% is recommended": "",
   "<{recommended} casts per minute is recommended": "",
